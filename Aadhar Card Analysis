@@ -1,0 +1,1 @@
+Developed an Aadhaar data analysis using PySpark to process large-scale enrollment data efficiently. Utilized Spark SQL for querying, performed data cleaning and transformation, and extracted insights on Aadhaar registrations across states and districts. Implemented ETL operations and leveraged data visualization techniques to interpret trends.
